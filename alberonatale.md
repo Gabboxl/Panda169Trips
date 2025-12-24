@@ -1,1 +1,5 @@
 Albero di Natale (Christmas tree issue)
+
+One day, I discovered that my Panda had decided to transform itself into a Christmas Tree. When I pressed the brake pedal, on the left lights panel behind, all the lights were lighting up (but with a lower intensity). This is the most popular issue in the world with a Fiat car, and it is well documented. Basically, the connector of the lights blew up (it was dark, just as a little fire lit up), and the ground pin of the connector got interrupted. The lights' circuitry is very simple: all the lights have a common ground wire and nothing else in between. So, without any ground, when current flows in a light bulb, the other bulbs act as a ground, so current starts flowing in them (in the opposite direction) lighting them up. If they were LEDs, this wouldn't have happened, as they would have been diodes, blocking the opposite flow of current.
+
+A good question would be "Why did the connector blow up?" Well I don't know. Probably too much current flowed inside the wires for whatever bad circuitry reason, and the pins not being big enough blew up.
