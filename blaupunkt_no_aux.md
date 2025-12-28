@@ -35,3 +35,5 @@ It worked! By pressing the CD button, the AUX word appeared on the screen! I onl
 
 ------so
 
+---express doubt that the NC pins are actually only software-disabled
+
